@@ -13,9 +13,7 @@ The image below is a good representation of what a total eclipse looks like with
 News organizations typically do a TERRIBLE job covering this. Here are a couple myths and important clarifications:
 
 ***“My house is in the path of a 95% eclipse; that’s good enough for me.”***
-This thinking has a critical flaw: it assumes that a 95% eclipse is 95% as cool as a total 100% eclipse. That's just not the case.
-
-A 95% eclipse may be cool, but a 100% eclipse is mind blowing.
+This thinking has a critical flaw: it assumes that a 95% eclipse is 95% as cool as a total 100% eclipse. That's just not the case. A 95% eclipse may be cool, but a 100% eclipse is mind blowing.
 
 ![solar_eclipse_cool_factor.jpg](./_assets/solar_eclipse_cool_factor.jpg)
 
