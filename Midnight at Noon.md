@@ -6,7 +6,7 @@ A total eclipse occurs when the Moon "totally" blocks the Sun, i.e., when it blo
 
 The image below is a good representation of what a total eclipse looks like with the naked eye.
 
-![total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg](https://wiki.lunar.tokyo/eclipse/total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg)
+![total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg](./_assets/total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg)
 
 ## Watch Out for Bad Reporting
 
@@ -17,7 +17,7 @@ This thinking has a critical flaw: it assumes that a 95% eclipse is 95% as cool 
 
 A 95% eclipse may be cool, but a 100% eclipse is mind blowing.
 
-![solar_eclipse_cool_factor.jpg](https://wiki.lunar.tokyo/eclipse/solar_eclipse_cool_factor.jpg)
+![solar_eclipse_cool_factor.jpg](./_assets/solar_eclipse_cool_factor.jpg)
 
 ***“But I was told not to look directly at the sun.”***
 Correct, don't look directly at the exposed Sun. BUT, during *totality* (when the moon totally blocks all the light from the sun), *LOOK DIRECTLY AT THE MOON-COVERING-THE-SUN*! You can and must look directly at it to see the magic (explained below).
@@ -55,7 +55,7 @@ The eclipse will take place on **April 8, 2024**. Depending on your location, it
 
 ## Where To See It?
 
-![eclipse-path-google-map-2.png](https://wiki.lunar.tokyo/eclipse/eclipse-path-google-map-2.png)
+![eclipse-path-google-map-2.png](./_assets/eclipse-path-google-map-2.png)
 
 [Click here for the Google Map shown above.](https://www.google.com/maps/d/u/0/edit?mid=1CrZe36J2R3DhytDIHm_NAVMw6dC-qf8&usp=sharing)
 
