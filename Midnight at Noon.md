@@ -55,17 +55,18 @@ The eclipse will take place on **April 8, 2024**. Depending on your location, it
 
 ## Where To See It?
 
-![eclipse-path-google-map.png](https://wiki.lunar.tokyo/eclipse/eclipse-path-google-map.png)
-[Click here for Google Map shown above.](https://www.google.com/maps/d/u/0/edit?mid=1CrZe36J2R3DhytDIHm_NAVMw6dC-qf8&usp=sharing)
+![eclipse-path-google-map-2.png](https://wiki.lunar.tokyo/eclipse/eclipse-path-google-map-2.png)
+
+[Click here for the Google Map shown above.](https://www.google.com/maps/d/u/0/edit?mid=1CrZe36J2R3DhytDIHm_NAVMw6dC-qf8&usp=sharing)
 
 ### The Path of Totality
 The Moon's shadow will sweep across the US from **Texas to Maine**. This shadow is the "path of totality" (i.e., where you can see the total eclipse) and is shown in the Google Map above.
 
-The thick red line is the "centerline of the moon's shadow". The two black, outer lines show the extent of totality. If you are outside of this path you will not see the total eclipse. **You must be inside this path.**
+The thick black line is the "centerline of the moon's shadow". The two black, outer lines show the extent of totality. If you are outside of this path you will not see the total eclipse. **You must be inside this path.**
 
 The length of totality (i.e., how long the eclipse will last) depends on your precise location within the path. **You want to be as close to the centerline of the path as possible.** E.g., if you're at the centerline of the path, totality can last up to 4.5 minutes, but if you're along the very outside edge you would only see it for 1 second.
 
-To emphasize again: the path of totality is the only place where you can see a total solar eclipse. Even if you are just outside the path (in a 99% eclipse area) you will miss it 100%.
+To emphasize again: the path of totality is the only place where you can see a total solar eclipse. Even if you are just outside the path (in a 99% eclipse area) you will miss totality.
 
 To accurately see when the eclipse will start in your area, use this map at [TimeandDate.com](https://www.timeanddate.com/eclipse/map/2024-april-8). Clicking on the map will show all the time data for that particular location.
 
@@ -73,10 +74,10 @@ To accurately see when the eclipse will start in your area, use this map at [Tim
 This is a tricky once. Unfortunately, weather in April is historically dynamic and hard to predict for all locations along the path in the US. It's going to be up to chance if you actually get to see it or not (back in 2017, an entire football stadium of observers missed out when a cloud passed in front of the eclipse).
 
 The map above color codes areas along the path based on historical data.
-- "**Red**" = best chance for clear skies. These areas include southern Texas and the southern shore of Lake Erie.
-- "**Orange**" = Pretty good chance for clear skies. This includes northeast Texas, Arkansas, and western New York.
-- "**Blue**" = 50/50 chance for clear skies. This includes Missouri, Illinois, Indiana, and Ohio. Probably not worth traveling to these places unless you happen to live there or have family there.
-- "**Grey**" = Minimal chance for clear skies. Northern New York, Vermont, New Hampshire, and Maine are historically very cloudy this time of year. Much higher risk of missing the eclipse in these areas.
+- "**Green**" = Best chance for clear skies. These areas include southern Texas and the southern shore of Lake Erie. (Texas is the better bet but to keep colors to a minimum I combined these two).
+- "**Yellow**" = Pretty good chance for clear skies. This includes northeast Texas, Arkansas, and western New York.
+- "**Orange**" = 50/50 chance for clear skies. This includes Missouri, Illinois, Indiana, and Ohio. Probably not worth traveling to these places unless you happen to live there or have family there you could visit.
+- "**Red**" = Minimal chance for clear skies. Northern New York, Vermont, New Hampshire, and Maine are historically very cloudy this time of year. Much higher risk of missing the eclipse in these areas.
 
 Best thing is to try and be mobile: have a car so that, day of, you can change to a more favorable location 1 or 2 hours away if need be.
 
@@ -96,3 +97,4 @@ Best thing is to try and be mobile: have a car so that, day of, you can change t
 - Historic weather info: https://eclipsophile.com/2024tse/
 - Exact timing based on location: https://www.timeanddate.com/eclipse/map/2024-april-8
 - Viewing safety: https://solarsystem.nasa.gov/eclipses/safety/
+
