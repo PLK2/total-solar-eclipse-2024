@@ -4,6 +4,8 @@
 ## What is a Total Solar Eclipse?
 A total eclipse occurs when the Moon "totally" blocks the Sun, i.e., when it blocks 100% of the sun's light. This is a rare and special event that you do not want to miss!
 
+![](./_assets/eclipse-diagram.jpg)
+
 The image below is a good representation of what a total eclipse looks like with the naked eye.
 
 ![total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg](./_assets/total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg)
