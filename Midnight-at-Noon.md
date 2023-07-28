@@ -77,11 +77,13 @@ The most important aspect of the weather in regards to eclipse planning is **clo
 There's no controlling the weather, but you can skirt around it if need be. The best thing is to have a car so that, day of, you can change to a more favorable location a few hours away if need be.
 
 ### Trip Planning Checklist & Considerations
+- [ ] **Location**. Pick a spot along the path based on weather, where you live, where you have family/friends, or where you may be traveling to anyway. Consider combining this eclipse experience with a "regular" family trip or family reunion.
 - [ ] **Be mobile.** Have a car (either drive your own or rent one) in case you need to move out of the way of a weather system. Back in 2017, an entire football stadium of observers missed out when a cloud passed in front of the eclipse.
 - [ ] **Book sooner rather than later.** Hotels and AirBnBs along the eclipse path are already booking up (some are already 4x their normal price). Most of America will be wanting to see this and if even a tenth of those people show up that's a lot of folks within a sliver of shadow.
-- [ ] **Have a backup plan.** If the weather is looking bad for your location A, you can pivot to location B instead.
+- [ ] **Have a backup plan.** If the weather is looking bad for your location A, you can pivot to location B instead. This could be as simple as driving an hour or two away. Or, based on your level of adventure tolerance, you could change locations entirely (E.g., we are planning our trip for Texas, but if it looks like an unfavorable large weather system will be in the area we will cancel that trip and instead drive 5 hours to western New York).
 - [ ] **Have good hourly weather data.** Consider subscribing to a weather service like [Windy.com](www.windy.com) which will show you precise cloud-cover data and forecasts.
 
+Good luck and clear skies!
 
 # References
 - General info: https://www.mreclipse.com/Totality2017/Totality2017-Ch11.html
