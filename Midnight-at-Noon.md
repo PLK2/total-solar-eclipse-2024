@@ -3,10 +3,11 @@
 > _It is a spectacle pure and simple, the most magnificent free show that nature presents to man. Not to view the coming one would be to literally lose the opportunity of a lifetime._ --New York Times, 1925
 ## What is a Total Solar Eclipse?
 A total eclipse occurs when the Moon "totally" blocks the Sun, i.e., when it blocks 100% of the sun's light. This is a rare and special event that you do not want to miss!
+The next one in the US will be in [2044/45](https://www.timeanddate.com/eclipse/list.html?starty=2040).
 
 ![](./_assets/eclipse-diagram.jpg)
 
-The image below is a good representation of what a total eclipse looks like with the naked eye.
+The image below is a good representation of what a total solar eclipse looks like with the naked eye.
 
 ![total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg](./_assets/total-solar-eclipse-professor-jay-pasachoffscience-photo-library.jpg)
 
@@ -20,13 +21,11 @@ This thinking has a critical flaw: it assumes that a 95% eclipse is 95% as cool 
 ![solar_eclipse_cool_factor.jpg](./_assets/solar_eclipse_cool_factor.jpg)
 
 ***“But I was told not to look directly at the sun.”***
-Correct, don't look directly at the exposed Sun. BUT, during *totality* (when the moon totally blocks all the light from the sun), *LOOK DIRECTLY AT THE MOON-COVERING-THE-SUN*! You can and must look directly at it to see the magic (explained below).
+Correct, don't look directly at the exposed Sun. Eclipse glasses are for partial eclipses only--when the sun is partially exposed. BUT, during *totality* (when the moon totally blocks all the light from the sun), *TAKE YOUR GLASSES OFF AND LOOK DIRECTLY AT IT*! You can and must look directly at the eclipse to see the magic (explained below). You do not need eclipse glasses during totality.
 
 I had some people tell me after the 2017 eclipse: "The News told me not to look at it so I kept my eclipse glasses on the whole time." They missed the whole show! Don't be that guy.
 
-Note, however, that it's important to stop looking as soon as the total eclipse is over (you don't want to be looking through binoculars when the sun comes back out because that would kinda melt your eyeballs); you can find the exact times of totality for your location at the links below.
-
-[https://solarsystem.nasa.gov/eclipses/safety/](https://solarsystem.nasa.gov/eclipses/safety/)
+Note, however, that it's important to stop looking as soon as the total eclipse is over. You can find the exact times of totality for your location in the References below. Also, check out [NASA's eye-safety info](https://solarsystem.nasa.gov/eclipses/safety/).
 
 
 ## The Magic of a Total Solar Eclipse
@@ -50,8 +49,13 @@ At your location, totality lasts for four minutes, an amount of time that feels 
 Suddenly, the Moon's shadow retreats and you are thrown back into daylight. It feels as if you've just been jolted awake from a deep, immersive dream where you were part of some ancient Aztec ritual. Now you find yourself standing under the lamp of the Sun, bemused, as if naked in a hospital hallway with no memory of how you got there. Like the child from that viral video you think "Is this real life?" You spend the next six years pondering that, until the next total eclipse teases the opportunity to find out.
 
 # Planning
+The total eclipse is totally worth seeing but there are some challenges you may encounter. Below I provide some info and tools to help you overcome some potential challenges and make it easier to plan your trip.
+
+
+for example, if you're staying in san antonio and then you see bad weather approachig you might consider driving a few hours away for better ewather. 
+
 ## Date and Time
-The eclipse will take place on **April 8, 2024**. Depending on your location, it will start anywhere from 1:30pm to 3:30pm (local time).
+The eclipse will take place on **April 8, 2024**. Depending on your location, it will start anywhere from 1:30pm to 3:30pm (local time). To accurately see when the eclipse will start and end in your area, use this map at [TimeandDate.com](https://www.timeanddate.com/eclipse/map/2024-april-8). Clicking on the map will show all the time data for that particular location.
 
 ## Where To See It?
 
@@ -60,35 +64,26 @@ The eclipse will take place on **April 8, 2024**. Depending on your location, it
 [Click here for the Google Map shown above.](https://www.google.com/maps/d/u/0/edit?mid=1CrZe36J2R3DhytDIHm_NAVMw6dC-qf8&usp=sharing)
 
 ### The Path of Totality
-The Moon's shadow will sweep across the US from **Texas to Maine**. This shadow is the "path of totality" (i.e., where you can see the total eclipse) and is shown in the Google Map above.
+The total eclipse will be viewable in a path from **Texas to Maine**. The "path of totality" is shown in the Google Map above; this is the area where you can see a 100% total eclipse. If you are outside of this path you will not see the total eclipse. **You must be inside this path.**
 
-The thick black line is the "centerline of the moon's shadow". The two black, outer lines show the extent of totality. If you are outside of this path you will not see the total eclipse. **You must be inside this path.**
-
-The length of totality (i.e., how long the eclipse will last) depends on your precise location within the path. **You want to be as close to the centerline of the path as possible.** E.g., if you're at the centerline of the path, totality can last up to 4.5 minutes, but if you're along the very outside edge you would only see it for 1 second.
-
-To emphasize again: the path of totality is the only place where you can see a total solar eclipse. Even if you are just outside the path (in a 99% eclipse area) you will miss totality.
-
-To accurately see when the eclipse will start in your area, use this map at [TimeandDate.com](https://www.timeanddate.com/eclipse/map/2024-april-8). Clicking on the map will show all the time data for that particular location.
+- **Centerline of the Path**: The thick black line is the centerline of the path. Along this line, the total eclipse will last up to 4.5 minutes.
+- **Outside Edge of the Path**: The two thin black lines are the outside edge of totality--the further away from the centerline you are, the shorter the eclipse will last. If you were to stand right along the edge you would only see 1 second of totality! **You want to be as close to the centerline of the path as possible.**
 
 ### Weather
-This is a tricky once. Unfortunately, weather in April is historically dynamic and hard to predict for all locations along the path in the US. It's going to be up to chance if you actually get to see it or not (back in 2017, an entire football stadium of observers missed out when a cloud passed in front of the eclipse).
+The most important aspect of the weather in regards to eclipse planning is **cloud cover**. The map above was made based on historic weather data and shows where you may have the best chances for clear skies.
 
-The map above color codes areas along the path based on historical data.
 - "**Green**" = Best chance for clear skies. These areas include southern Texas and the southern shore of Lake Erie. (Texas is the better bet but to keep colors to a minimum I combined these two).
 - "**Yellow**" = Pretty good chance for clear skies. This includes northeast Texas, Arkansas, and western New York.
 - "**Orange**" = 50/50 chance for clear skies. This includes Missouri, Illinois, Indiana, and Ohio. Probably not worth traveling to these places unless you happen to live there or have family there you could visit.
 - "**Red**" = Minimal chance for clear skies. Northern New York, Vermont, New Hampshire, and Maine are historically very cloudy this time of year. Much higher risk of missing the eclipse in these areas.
 
-Best thing is to try and be mobile: have a car so that, day of, you can change to a more favorable location 1 or 2 hours away if need be.
+There's no controlling the weather, but you can skirt around it if need be. The best thing is to have a car so that, day of, you can change to a more favorable location a few hours away if need be.
 
-### Trip Planning
-**Book sooner rather than later.** Hotels and AirBnBs along the eclipse path are already booked and/or 3x more expensive. Most of America will be wanting to see this and if even a tenth of those people show up that's a lot of folks within a sliver of shadow.
-
-**Be mobile.** Have access to a car in case you need to move out of the way of a weather system. But be warned: in 2017 interstate highways came to a standstill before and for hours after the eclipse.
-
-**Have a backup plan.** If the weather is looking bad for your location A, you can pivot to location B instead.
-
-**Have good hourly weather data.** Consider subscribing to a "fancy" weather service like [Windy.com](www.windy.com).
+### Trip Planning Checklist & Considerations
+- [ ] **Be mobile.** Have a car (either drive your own or rent one) in case you need to move out of the way of a weather system. Back in 2017, an entire football stadium of observers missed out when a cloud passed in front of the eclipse.
+- [ ] **Book sooner rather than later.** Hotels and AirBnBs along the eclipse path are already booking up (some are already 4x their normal price). Most of America will be wanting to see this and if even a tenth of those people show up that's a lot of folks within a sliver of shadow.
+- [ ] **Have a backup plan.** If the weather is looking bad for your location A, you can pivot to location B instead.
+- [ ] **Have good hourly weather data.** Consider subscribing to a weather service like [Windy.com](www.windy.com) which will show you precise cloud-cover data and forecasts.
 
 
 # References
