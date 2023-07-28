@@ -49,10 +49,7 @@ At your location, totality lasts for four minutes, an amount of time that feels 
 Suddenly, the Moon's shadow retreats and you are thrown back into daylight. It feels as if you've just been jolted awake from a deep, immersive dream where you were part of some ancient Aztec ritual. Now you find yourself standing under the lamp of the Sun, bemused, as if naked in a hospital hallway with no memory of how you got there. Like the child from that viral video you think "Is this real life?" You spend the next six years pondering that, until the next total eclipse teases the opportunity to find out.
 
 # Planning
-The total eclipse is totally worth seeing but there are some challenges you may encounter. Below I provide some info and tools to help you overcome some potential challenges and make it easier to plan your trip.
-
-
-for example, if you're staying in san antonio and then you see bad weather approachig you might consider driving a few hours away for better ewather. 
+The total eclipse is totally worth seeing but there are some challenges you may encounter. Below I provide some information and tools to help you overcome those potential challenges and make it easier to plan your trip.
 
 ## Date and Time
 The eclipse will take place on **April 8, 2024**. Depending on your location, it will start anywhere from 1:30pm to 3:30pm (local time). To accurately see when the eclipse will start and end in your area, use this map at [TimeandDate.com](https://www.timeanddate.com/eclipse/map/2024-april-8). Clicking on the map will show all the time data for that particular location.
