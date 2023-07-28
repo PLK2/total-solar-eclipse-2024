@@ -21,7 +21,7 @@ This thinking has a critical flaw: it assumes that a 95% eclipse is 95% as cool 
 ![solar_eclipse_cool_factor.jpg](./_assets/solar_eclipse_cool_factor.jpg)
 
 ***“But I was told not to look directly at the sun.”***
-Correct, don't look directly at the exposed Sun. Eclipse glasses are for partial eclipses only--when the sun is partially exposed. BUT, during *totality* (when the moon totally blocks all the light from the sun), *TAKE YOUR GLASSES OFF AND LOOK DIRECTLY AT IT*! You can and must look directly at the eclipse to see the magic (explained below). You do not need eclipse glasses during totality.
+Correct, don't look directly at the exposed Sun. Eclipse glasses are for partial eclipses only--when the sun is partially exposed. BUT, during *totality* (when the moon totally blocks all the light from the sun), *TAKE YOUR GLASSES OFF AND LOOK DIRECTLY AT IT*! You can and must look directly at the total eclipse to see the magic (explained below). You do not need eclipse glasses during totality.
 
 I had some people tell me after the 2017 eclipse: "The News told me not to look at it so I kept my eclipse glasses on the whole time." They missed the whole show! Don't be that guy.
 
