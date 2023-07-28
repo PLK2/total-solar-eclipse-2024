@@ -72,7 +72,7 @@ The total eclipse will be viewable in a path from **Texas to Maine**. The "path 
 ### Weather
 The most important aspect of the weather in regards to eclipse planning is **cloud cover**. The map above was made based on historic weather data and shows where you may have the best chances for clear skies.
 
-- "**Green**" = Best chance for clear skies. These areas include southern Texas and the southern shore of Lake Erie. (Texas is the better bet but to keep colors to a minimum I combined these two).
+- "**Green**" = Best chance for clear skies. These areas include southern Texas and the southern shore of Lake Erie. (Texas is the better bet but a "lake effect" can sometimes clear the skies along Lake Erie).
 - "**Yellow**" = Pretty good chance for clear skies. This includes northeast Texas, Arkansas, and western New York.
 - "**Orange**" = 50/50 chance for clear skies. This includes Missouri, Illinois, Indiana, and Ohio. Probably not worth traveling to these places unless you happen to live there or have family there you could visit.
 - "**Red**" = Minimal chance for clear skies. Northern New York, Vermont, New Hampshire, and Maine are historically very cloudy this time of year. Much higher risk of missing the eclipse in these areas.
