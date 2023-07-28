@@ -61,7 +61,7 @@ The eclipse will take place on **April 8, 2024**. Depending on your location, it
 
 ![eclipse-path-google-map-2.png](./_assets/eclipse-path-google-map-2.png)
 
-[Click here for the Google Map shown above.](https://www.google.com/maps/d/u/0/edit?mid=1CrZe36J2R3DhytDIHm_NAVMw6dC-qf8&usp=sharing)
+[Click here to access the Google Map shown above.](https://www.google.com/maps/d/u/0/edit?mid=1CrZe36J2R3DhytDIHm_NAVMw6dC-qf8&usp=sharing)
 
 ### The Path of Totality
 The total eclipse will be viewable in a path from **Texas to Maine**. The "path of totality" is shown in the Google Map above; this is the area where you can see a 100% total eclipse. If you are outside of this path you will not see the total eclipse. **You must be inside this path.**
