@@ -1,6 +1,6 @@
 
 # Midnight at Noon
-> It is a spectacle pure and simple, the most magnificent free show that nature presents to man. Not to view the coming one would be to literally lose the opportunity of a lifetime. --New York Times, 1925
+> _It is a spectacle pure and simple, the most magnificent free show that nature presents to man. Not to view the coming one would be to literally lose the opportunity of a lifetime._ --New York Times, 1925
 ## What is a Total Solar Eclipse?
 A total eclipse occurs when the Moon "totally" blocks the Sun, i.e., when it blocks 100% of the sun's light. This is a rare and special event that you do not want to miss!
 
