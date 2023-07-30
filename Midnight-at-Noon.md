@@ -1,6 +1,7 @@
 
 # Midnight at Noon
 > _It is a spectacle pure and simple, the most magnificent free show that nature presents to man. Not to view the coming one would be to literally lose the opportunity of a lifetime._ --New York Times, 1925
+
 > _I was astounded by a tremendous burst of applause from the streets below, and at the same moment was electrified at the sight of one of the most brilliant and splendid phenomena that can well be imagined. For, at that instant the dark body of the moon was suddenly surrounded with a corona, or kind of bright glory, similar in shape and relative magnitude to that which painters draw round the heads of saints._ --Francis Baily, 1842
 ## What is a Total Solar Eclipse?
 A total eclipse occurs when the Moon "totally" blocks the Sun, i.e., when it blocks 100% of the sun's light. This is a rare and special event that you do not want to miss!
