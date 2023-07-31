@@ -93,4 +93,5 @@ Good luck and clear skies!
 - Historic weather info: https://eclipsophile.com/2024tse/
 - Exact timing based on location: https://www.timeanddate.com/eclipse/map/2024-april-8
 - Viewing safety: https://solarsystem.nasa.gov/eclipses/safety/
+- 4-min Spacepod podcast episode about the eclipse: https://www.listentospacepod.com/episodes/2023/7/24/bonus-episode-the-upcoming-american-total-solar-eclipse
 
